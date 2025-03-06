@@ -1,2 +1,2 @@
+pub mod fee_collector;
 pub mod pool;
-pub use pool::*;
